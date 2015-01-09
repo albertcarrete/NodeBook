@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getCensoredWords"
+			],
+			[
+				"_file",
+				"_fileSize"
+			],
+			[
+				"insert",
+				"_insertAtEnd"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"qu",
+				"QuickSort"
+			],
+			[
+				"get_Subchunk2",
+				"get_Subchunk2Size"
+			],
+			[
+				"get_SubC",
+				"get_Subchunk1ID"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"GetFile",
+				"GetFileLength"
+			],
+			[
+				"triangu",
+				"triangularArray"
+			],
+			[
+				"trian",
+				"triangularArray"
+			],
+			[
+				"detection",
+				"detectionRatio"
+			],
+			[
+				"detect",
+				"detectionRatio"
+			],
+			[
+				"set_fil",
+				"set_FileData"
+			],
+			[
+				"set_",
+				"set_FilePath"
+			],
+			[
+				"setTargetFil",
+				"setTargetFilePath"
+			],
+			[
+				"i",
+				"INCLUDE_PATH"
+			],
+			[
+				"shrinkhe",
+				"shrinkHeader2"
+			],
+			[
+				"shri",
+				"shrinkHeader2"
+			],
+			[
+				"BentonSans",
+				"BentonSans-Medium"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"which gcc",
+			"gcc",
+			"gcc -g main.cpp -o hello.exe",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/albertcarrete/Code/NodeBook"
+	],
+	"file_history":
+	[
+		"/Users/albertcarrete/Code/NAMwebdev/censorify/README.md",
+		"/Users/albertcarrete/Code/NAMwebdev/censorify/censortext.js",
+		"/Users/albertcarrete/Code/NAMwebdev/censorify/package.json",
+		"/Users/albertcarrete/Code/NAMwebdev/censorify/README.m",
+		"/Users/albertcarrete/Code/NAMwebdev/package.json",
+		"/Users/albertcarrete/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/gulpfile.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/ng/posts.ctrl.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/ng/posts.svc.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/server.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/controllers/api/posts.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/controllers/static.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/layouts/posts.html",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/models/post.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/gulp/server.js",
+		"/Users/albertcarrete/Code/MeanStackTest/app/Chapter6/package.json",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/controllers/static.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/controllers/api/posts.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/posts.html",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/package.json",
+		"/Users/albertcarrete/Code/MeanStackTest/app.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/Vagrantfile",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/assets/app.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/server.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/db.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/layouts/posts.html",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter5/models/post.js",
+		"/Users/albertcarrete/Code/TrendzInteriors/css/skeleton.css",
+		"/Users/albertcarrete/Code/TrendzInteriors/css/custom.css",
+		"/Users/albertcarrete/Code/TrendzInteriors/css/component.css",
+		"/Users/albertcarrete/Code/TrendzInteriors/index.html",
+		"/Users/albertcarrete/Downloads/Skeleton-gh-pages/examples/landing/index.html",
+		"/Users/albertcarrete/Downloads/Skeleton-2.0.2/index.html",
+		"/Users/albertcarrete/Downloads/1140px-Responsive-CSS-Grid-1.0/css/1140.css",
+		"/Users/albertcarrete/Downloads/Skeleton-gh-pages/examples/landing/css/custom.css",
+		"/Users/albertcarrete/Downloads/Skeleton-2.0.2/css/skeleton.css",
+		"/Users/albertcarrete/Downloads/Skeleton-2.0.2/css/normalize.css",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter4/models/post.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter4/db.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter4/server.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter4/posts.html",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/cli/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/ACgraph/ACgraph.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AUDFile/AUDFILE.cpp",
+		"/Users/albertcarrete/Documents/STProjects/mean-sample-master/.gitignore",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/HuffFile/HuffFile.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/HuffFile/HuffFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/Handlers/AUDHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/Handlers/AUDHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AUDFile/WAVFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AUDFile/AUDFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/List/List.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/wavbinarydata",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/makefile",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/List/List.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/sin.wav-huff.wav",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/Handlers/INIHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/Handlers/INIHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/HUFFfile/HuffFile.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/HUFFfile/HUFFfile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AUDFile/WAVFile.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AVLTree/AVLTree.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project2/include/AVLTree/AVLTree.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Tree/makefile",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Tree/src/Tree/AVLTree.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Tree/src/Tree/AVLTree.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Tree/cli_exec",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/makefile",
+		"/Users/albertcarrete/.zshrc",
+		"/Users/albertcarrete/zshrc",
+		"/Users/albertcarrete/Desktop/main.c",
+		"/Users/albertcarrete/Dropbox/libraries",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SortingComparison/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/AUDFile/WAVFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/AUDFile/AUDFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/AUDFile/AUDFILE.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/AUDFile/WAVFile.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/ACgraph/ACgraph.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/makefile",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/ACgraph/ACgraph.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/AUDHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/AUDHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/INIHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/INIHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/cli/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handler/AUDHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handler/AUDHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/SettingsHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/Handlers/SettingsHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/ACarrete_Project1/include/ACgraph/ACGraph.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/Handler/AUDHandler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/Handler/AUDHandler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/AUDFile/WAVFile.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/AUDFile/AUDFILE.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/AUDFile/AUDFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/cli/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/AUDFile/WAVFile.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/main-backup.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/makefile",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/Handler/Handler.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/include/Handler/Handler.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/SDLTest/SDLTest.sublime-project",
+		"/Applications/Qt/5.3/clang_64/mkspecs/qdevice.pri",
+		"/Applications/Qt/5.3/clang_64/mkspecs/qconfig.pri",
+		"/Users/albertcarrete/Qt/5.3/clang_64/mkspecs/qdevice.pri",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/cli/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/Recursion/Trig.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/StatClass2/StatClass2.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/StatClass2/statClass2.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/StatClass/statClass.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/StatClass/statClass.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/Recursion/Trig.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/Recursion/RTan.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/SimpleVector/SimpleVector.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/SimpleVector/SimpleVector.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/Recursion/RTan.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/StatClass2",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/LinkedList/LinkedList.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/helloworld/hello.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/helloworld/hello.h",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Midterm/include/Recursion/RecursiveTangent",
+		"/Users/albertcarrete/Documents/STProjects/SampleProject/Makefile",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Recursion/cli/main.cpp",
+		"/Users/albertcarrete/Documents/STProjects/CSC17C/Recursion/makefile",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter10/controllers/api/posts.js",
+		"/Users/albertcarrete/Documents/STProjects/MeanStack/app/Chapter10/pubsub.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"Handler.cpp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hero",
+			"service",
+			"service-heading",
+			"value",
+			"section-desc",
+			"section",
+			"headerMap",
+			"split",
+			"retrieve",
+			"freq",
+			"RetrieveFreqMap",
+			"sin",
+			"somevalue",
+			"TempFile",
+			"00101011",
+			"getw",
+			"<",
+			"print",
+			"HuffFreqMap",
+			"filebuffer",
+			"next",
+			"ended on",
+			"retrievefreqmap",
+			"BNodePrint",
+			"NodePrint",
+			"print",
+			"grabNewNode",
+			"HuffMap",
+			"huff",
+			"Huff",
+			"HuffCod",
+			"PrintHuff",
+			"printHuffCodes",
+			"printCodes",
+			"deleteAtFirst",
+			"_insertAtEnd",
+			"dummy",
+			"insert",
+			"freqmap",
+			"traverseNodes",
+			"_insertATEnd",
+			"Tree",
+			"AVL",
+			"remove",
+			"show",
+			"remove",
+			"set_FileData",
+			"key",
+			"fixheight",
+			"height",
+			"heighty",
+			"key",
+			"print",
+			"insert",
+			"print",
+			"13325",
+			"13324",
+			"cout",
+			"get_",
+			"wave",
+			"file",
+			"map",
+			"drawLine",
+			"set_HeaderData",
+			"header",
+			"Binaryfile",
+			"RTan",
+			"statClass22",
+			"statclass",
+			"invalid_argument",
+			"JSO",
+			"Last",
+			"ListElement",
+			"datum",
+			"extract",
+			"perline",
+			"new",
+			"size",
+			"columnArray",
+			"colAry",
+			"fillarray",
+			"triAry",
+			"main",
+			"hero",
+			"hero-container",
+			"hero-bg",
+			".hero-color",
+			".hero",
+			"subtitle",
+			"subtitle p",
+			"learnbutton",
+			"testimonials",
+			"about p",
+			"video",
+			"bigtext",
+			"subtext h3",
+			"max-width",
+			"titles-wrapper",
+			"wrapper",
+			"half",
+			"col-md-5",
+			"brandongro",
+			".hero",
+			"subtitle",
+			"text-wrapper p",
+			"sidekick",
+			"subtitle",
+			"sidekick",
+			"about-hero",
+			"subtitle",
+			"sidekick",
+			"subtitle",
+			"fancybox",
+			"readtoconsole",
+			"specify a .bmp",
+			"specify",
+			"string",
+			"type",
+			"read",
+			"errormessages",
+			"delete",
+			"binaryfile",
+			"hex",
+			"filesize",
+			"BYTE",
+			"functionse",
+			"do_extend",
+			"menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"heightify",
+			"datum",
+			"headerMap",
+			"AUDFile",
+			"Trig",
+			"statClass2",
+			"Node",
+			"columnArray",
+			"consolemessage",
+			"bmp",
+			".hero-container",
+			"nav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "NodeBook.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
